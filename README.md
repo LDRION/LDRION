@@ -19,8 +19,7 @@
 
 - [**ChildGPT**](https://github.com/LDRION/childgpt) — безопасный ИИ-собеседник для детей: fail-closed контур защиты, LLM-судьи входа и выхода, 166 red-team тестов.
 - [**screen-retina**](https://github.com/LDRION/screen-retina) — восприятие экрана для LLM текстовыми событиями вместо скриншотов: в 38–96 раз меньше токенов.
-- [**Фриланс-радар**](https://github.com/LDRION/freelance-radar) — находит заказы, оценивает и пишет отклик одним вызовом модели, откликается в первую минуту.
-- [**Lead Engine**](https://github.com/LDRION/lead-engine) — квалификация лидов в Telegram-чатах: дешёвый триггер + Claude с окном контекста.
+- **Lead Engine** (код закрыт) — квалификация лидов в Telegram-чатах в реальном времени: дешёвый триггер + Claude с окном контекста.
 - [**Fishcheckbot**](https://github.com/LDRION/fishcheckbot) — продакшен-бот учёта для ресторанной сети: TypeScript, тесты, Docker, CI.
 - [**MacroRec**](https://github.com/LDRION/macrorec) — рекордер действий мыши и клавиатуры, движок курсора для AI Vision.
 
