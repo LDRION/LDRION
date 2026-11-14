@@ -19,6 +19,7 @@
 
 - [**ChildGPT**](https://github.com/LDRION/childgpt) — безопасный ИИ-собеседник для детей: fail-closed контур защиты, LLM-судьи входа и выхода, 166 red-team тестов.
 - [**screen-retina**](https://github.com/LDRION/screen-retina) — восприятие экрана для LLM текстовыми событиями вместо скриншотов: в 38–96 раз меньше токенов.
+- [**cryptome**](https://github.com/LDRION/cryptome) — исследовательский движок on-chain арбитража для Ethereum: маршруты по Uniswap V2/V3/V4, проверка каждой сделки в EVM, свой Solidity-контракт с ранними проверками, бандлы восьми билдерам, модель «кто соберёт блок», 388 тестов; рынок замерен по публичным данным сети.
 - **Lead Engine** (код закрыт) — квалификация лидов в Telegram-чатах: дешёвый триггер + Claude с окном контекста.
 - [**Fishcheckbot**](https://github.com/LDRION/fishcheckbot) — бот учёта переработки, работавший в ресторанной сети: TypeScript, тесты, Docker, CI.
 - [**MacroRec**](https://github.com/LDRION/macrorec) — рекордер действий мыши и клавиатуры, движок курсора для AI Vision.
@@ -29,6 +30,7 @@
 **Бэкенд:** Node.js, TypeScript, Express, Python, FastAPI · PostgreSQL, MongoDB, Redis, SQLite · очереди (Kafka, RabbitMQ, BullMQ) · REST, SSE, WebSocket, JWT, OAuth.
 **Фронтенд и клиенты:** React, Next.js, React Native (Expo), Electron, Telegram-боты и Mini Apps.
 **Автоматизация:** Playwright по CDP, UI Automation, OCR, ffmpeg.
+**Web3:** Ethereum, Solidity, viem, симуляция в EVM, MEV-бандлы.
 **Инфраструктура:** Linux, Docker, Nginx, PM2, GitHub Actions, pytest, Vitest.
 
 ## Опыт
